@@ -1,0 +1,14 @@
+<svg width="274" height="568" viewBox="0 0 274 568" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="274" height="568" rx="10" fill="#483EFF"/>
+<mask id="mask0_24146_875" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="274" height="568">
+<rect width="274" height="568" rx="10" fill="white"/>
+</mask>
+<g mask="url(#mask0_24146_875)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M-34.6922 543.101C3.24686 632.538 168.767 685.017 211.961 612.52C255.155 540.023 145.862 526.867 107.226 451.951C68.5909 377.035 38.5691 330.277 -17.2557 347.344C-73.0805 364.412 -72.6313 453.664 -34.6922 543.101Z" fill="#6259FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M233.095 601.153C293.774 572.875 325.934 457.627 274.97 429.625C224.005 401.622 217.573 477.204 166.911 505.612C116.249 534.02 84.7711 555.819 97.8671 593.853C110.963 631.887 172.416 629.431 233.095 601.153Z" fill="#F9818E"/>
+<path d="M165.305 469.097L175.912 458.291" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M209.461 474.581L196.955 464.078" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M187.56 488.991L180.652 503.789" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="bevel"/>
+<path d="M0.304688 546.891C37.3078 546.891 67.3047 516.894 67.3047 479.891C67.3047 442.888 37.3078 412.891 0.304688 412.891C-36.6984 412.891 -66.6953 442.888 -66.6953 479.891C-66.6953 516.894 -36.6984 546.891 0.304688 546.891Z" fill="#FFAF7E"/>
+</g>
+</svg>
